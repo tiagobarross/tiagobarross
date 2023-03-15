@@ -18,4 +18,4 @@
 
 ### About me
 
-<br/><p>Programador júnior (por enquanto 😉), em constante aprendizado e ambicioso por conhecimento computacional. Sempre estudando novas tecnologias e procurando mais habilidades tanto na frente das telas como na minha vida social, disposto a crescer ajudando as pessoas e solucionando qualquer problema!</p><br>
+<br/><p>Programador júnior (por enquanto 😉) em constante aprendizado e ambicioso por conhecimento computacional. Sempre estudando novas tecnologias e procurando mais habilidades tanto na frente das telas como na minha vida social, disposto a crescer ajudando as pessoas e solucionando qualquer problema!</p><br>
